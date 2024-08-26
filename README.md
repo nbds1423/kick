@@ -1,0 +1,1 @@
+Esse projeto não funciona mais. Ele foi crido na epoca que a Kick não fornencia uma API para os desenvolvedores. Para que os streamers não ficasse sem um Bot para ajudar nos comandos e moderação eu acabei desenvolvendo esse Bot
